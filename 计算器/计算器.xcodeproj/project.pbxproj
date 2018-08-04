@@ -17,6 +17,7 @@
 		84E0BA1C2023FB2C00758B4C /* ___UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E0BA1B2023FB2C00758B4C /* ___UITests.m */; };
 		84E0BA2B2023FB4E00758B4C /* NSObject+Caculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E0BA2A2023FB4E00758B4C /* NSObject+Caculator.m */; };
 		84E0BA312023FBB600758B4C /* CaculatorMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E0BA302023FBB600758B4C /* CaculatorMaker.m */; };
+		84EB56752115AF3300D452F5 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84EB56742115AF3300D452F5 /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		84E0BA2A2023FB4E00758B4C /* NSObject+Caculator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Caculator.m"; sourceTree = "<group>"; };
 		84E0BA2F2023FBB600758B4C /* CaculatorMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CaculatorMaker.h; sourceTree = "<group>"; };
 		84E0BA302023FBB600758B4C /* CaculatorMaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CaculatorMaker.m; sourceTree = "<group>"; };
+		84EB56732115AF3300D452F5 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		84EB56742115AF3300D452F5 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				84E0B9F82023FB2C00758B4C /* AppDelegate.m */,
 				84E0B9FA2023FB2C00758B4C /* ViewController.h */,
 				84E0B9FB2023FB2C00758B4C /* ViewController.m */,
+				84EB56732115AF3300D452F5 /* HomeViewController.h */,
+				84EB56742115AF3300D452F5 /* HomeViewController.m */,
 				84E0BA292023FB4E00758B4C /* NSObject+Caculator.h */,
 				84E0BA2A2023FB4E00758B4C /* NSObject+Caculator.m */,
 				84E0BA2F2023FBB600758B4C /* CaculatorMaker.h */,
@@ -280,6 +285,7 @@
 				84E0B9FC2023FB2C00758B4C /* ViewController.m in Sources */,
 				84E0BA072023FB2C00758B4C /* main.m in Sources */,
 				84E0B9F92023FB2C00758B4C /* AppDelegate.m in Sources */,
+				84EB56752115AF3300D452F5 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
